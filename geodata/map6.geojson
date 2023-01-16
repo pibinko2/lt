@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "map5",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "campo1": "a" }, "geometry": { "type": "LineString", "coordinates": [ [ 10.216858945374781, 43.05916205408505 ], [ 11.25953201761385, 43.30561150666955 ], [ 11.406696591162785, 43.046026598086172 ] ] } },
+{ "type": "Feature", "properties": { "campo1": "b" }, "geometry": { "type": "LineString", "coordinates": [ [ 11.410894682333975, 42.768559661426934 ], [ 10.437123283255232, 42.515436621616203 ], [ 10.045080557144644, 42.87379558161922 ] ] } },
+{ "type": "Feature", "properties": { "campo1": "c" }, "geometry": { "type": "LineString", "coordinates": [ [ 8.043128000017148, 43.747161469777552 ], [ 8.712494675334204, 44.079382361022041 ], [ 9.956542802664812, 43.775629839664262 ] ] } },
+{ "type": "Feature", "properties": { "campo1": "d" }, "geometry": { "type": "LineString", "coordinates": [ [ 8.514923130505782, 43.217135347840369 ], [ 8.908091134869787, 42.910204572040399 ], [ 7.699609898919045, 42.791583266222744 ], [ 7.379136150668901, 43.222201482419159 ] ] } },
+{ "type": "Feature", "properties": { "campo1": "e" }, "geometry": { "type": "LineString", "coordinates": [ [ 7.38201646870644, 43.646570323161733 ], [ 7.50720632363637, 44.199341141782355 ] ] } }
+]
+}
